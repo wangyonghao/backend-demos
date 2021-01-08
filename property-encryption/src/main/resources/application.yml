@@ -1,0 +1,3 @@
+property-encryption:
+  normal-property: abcdefghigklmn
+  secret-property: 123456789
