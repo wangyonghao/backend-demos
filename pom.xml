@@ -12,7 +12,8 @@
 
 	<modules>
 		<module>property-encryption</module>
-	</modules>
+    <module>swagger3</module>
+  </modules>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
